@@ -1,0 +1,23 @@
+CO-EST2015-alldata: Annual Resident Population Estimates, Estimated Components of Resident Population Change, and Rates of the Components of Resident Population Change for States and Counties: April 1, 2010 to July 1, 2015  
+
+File: 7/1/2015 County Population Estimates  
+
+
+Source: U.S. Census Bureau, Population Division Release 
+
+Date: March 2016Sort order of observations: Counties within State in FIPS code sort Data fields (in order of appearance):
+
+
+VARIABLE AND DESCRIPTIONS                                                                              
+
+SUMLEV Geographic summary level  
+REGION Census Region code 
+DIVISION Census Division code 
+STATE State FIPS code
+COUNTY County FIPS code
+STNAME  State name 
+CTYNAME County name
+CENSUS2010POP 4/1/2010 resident total Census 2010 population 
+POPESTIMATE2011 7/1/2011 resident total population estimate
+BIRTHS2010  Births in period 4/1/2010 to 6/30/2010 
+DEATHS2010  Deaths in period 4/1/2010 to 6/30/2010 
