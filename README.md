@@ -1,7 +1,6 @@
-# Pandas Exercises
+# Pandas Topics
 
-Fed up with a ton of tutorials but no easy way to find exercises I decided to create a repo just with exercises to practice pandas.
-Don't get me wrong, tutorials are great resources, but to learn is to do. So unless you practice you won't learn.
+## Notebook Files
 
 There will be three different types of files:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Exercise instructions  
@@ -11,66 +10,56 @@ There will be three different types of files:
 My suggestion is that you learn a topic in a tutorial, video or documentation and then do the first exercises.
 Learn one more topic and do more exercises. If you are stuck, don't go directly to the solution with code files. Check the solutions only and try to get the correct answer.
 
-Suggestions and collaborations are more than welcome.🙂 Please open an issue or make a PR indicating the exercise and your problem/solution.
 
-# Lessons
+## Lessons and Data
 
-|				                                  |				                                   |                   |
-|:-----------------------------------------------:|:----------------------------------------------:|:-----------------:|
-|[Getting and knowing](#getting-and-knowing)      | [Merge](#merge)                                |[Time Series](#time-series)|
-|[Filtering and Sorting](#filtering-and-sorting)  | [Stats](#stats)                                |[Deleting](#deleting)       |
-|[Grouping](#grouping)							  | [Visualization](#visualization)                |Indexing           |
-|[Apply](#apply)							      | [Creating Series and DataFrames](#creating-series-and-dataframes) 		            |Exporting|
+### [Getting to Know the Data](https://github.com/kipronokoech/pandas_topics/tree/master/01_Getting_%26_Knowing_Your_Data)  
+[Chipotle](https://github.com/kipronokoech/pandas_topics/tree/master/01_Getting_%26_Knowing_Your_Data/Chipotle)  
+[Occupation](https://github.com/kipronokoech/pandas_topics/tree/master/01_Getting_%26_Knowing_Your_Data/Occupation)  
+[World Food Facts](https://github.com/kipronokoech/pandas_topics/tree/master/01_Getting_%26_Knowing_Your_Data/World%20Food%20Facts)
 
-### [Getting and knowing](https://github.com/guipsamora/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data)  
-[Chipotle](https://github.com/guipsamora/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Chipotle)  
-[Occupation](https://github.com/guipsamora/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Occupation)  
-[World Food Facts](https://github.com/guipsamora/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/World%20Food%20Facts)
+### [Filtering and Sorting](https://github.com/kipronokoech/pandas_topics/tree/master/02_Filtering_%26_Sorting)
+[Chipotle](https://github.com/kipronokoech/pandas_topics/tree/master/02_Filtering_%26_Sorting/Chipotle)  
+[Euro12](https://github.com/kipronokoech/pandas_topics/tree/master/02_Filtering_%26_Sorting/Euro12)  
+[Fictional Army](https://github.com/kipronokoech/pandas_topics/tree/master/02_Filtering_%26_Sorting/Fictional%20Army)
 
-### [Filtering and Sorting](https://github.com/guipsamora/pandas_exercises/tree/master/02_Filtering_%26_Sorting)
-[Chipotle](https://github.com/guipsamora/pandas_exercises/tree/master/02_Filtering_%26_Sorting/Chipotle)  
-[Euro12](https://github.com/guipsamora/pandas_exercises/tree/master/02_Filtering_%26_Sorting/Euro12)  
-[Fictional Army](https://github.com/guipsamora/pandas_exercises/tree/master/02_Filtering_%26_Sorting/Fictional%20Army)
+### [Grouping](https://github.com/kipronokoech/pandas_topics/tree/master/03_Grouping)
+[Alcohol Consumption](https://github.com/kipronokoech/pandas_topics/tree/master/03_Grouping/Alcohol_Consumption)  
+[Occupation](https://github.com/kipronokoech/pandas_topics/tree/master/03_Grouping/Occupation)  
+[Regiment](https://github.com/kipronokoech/pandas_topics/tree/master/03_Grouping/Regiment)
 
-### [Grouping](https://github.com/guipsamora/pandas_exercises/tree/master/03_Grouping)
-[Alcohol Consumption](https://github.com/guipsamora/pandas_exercises/tree/master/03_Grouping/Alcohol_Consumption)  
-[Occupation](https://github.com/guipsamora/pandas_exercises/tree/master/03_Grouping/Occupation)  
-[Regiment](https://github.com/guipsamora/pandas_exercises/tree/master/03_Grouping/Regiment)
+### [Apply](https://github.com/kipronokoech/pandas_topics/tree/master/04_Apply)
+[Students Alcohol Consumption](https://github.com/kipronokoech/pandas_topics/tree/master/04_Apply/Students_Alcohol_Consumption)  
+[US_Crime_Rates](https://github.com/kipronokoech/pandas_topics/tree/master/04_Apply/US_Crime_Rates)     
 
-### [Apply](https://github.com/guipsamora/pandas_exercises/tree/master/04_Apply)
-[Students Alcohol Consumption](https://github.com/guipsamora/pandas_exercises/tree/master/04_Apply/Students_Alcohol_Consumption)  
-[US_Crime_Rates](https://github.com/guipsamora/pandas_exercises/tree/master/04_Apply/US_Crime_Rates)     
+### [Merge and Joining](https://github.com/kipronokoech/pandas_topics/tree/master/05_Merge_and_Joining)
+[Auto_MPG](https://github.com/kipronokoech/pandas_topics/tree/master/05_Merge_and_Joining/Auto_MPG)  
+[Fictitious Names](https://github.com/kipronokoech/pandas_topics/tree/master/05_Merge_and_Joining/Fictitous%20Names)  
+[House Market](https://github.com/kipronokoech/pandas_topics/tree/master/05_Merge_and_Joining/Housing%20Market)  
 
-### [Merge](https://github.com/guipsamora/pandas_exercises/tree/master/05_Merge)
-[Auto_MPG](https://github.com/guipsamora/pandas_exercises/tree/master/05_Merge/Auto_MPG)  
-[Fictitious Names](https://github.com/guipsamora/pandas_exercises/tree/master/05_Merge/Fictitous%20Names)  
-[House Market](https://github.com/guipsamora/pandas_exercises/tree/master/05_Merge/Housing%20Market)  
+### [Statistics](https://github.com/kipronokoech/pandas_topics/tree/master/06_Statistics)
+[US_Baby_Names](https://github.com/kipronokoech/pandas_topics/tree/master/06_Statistics/US_Baby_Names)  
+[Wind_Stats](https://github.com/kipronokoech/pandas_topics/tree/master/06_Statistics/Wind_Stats)
 
-### [Stats](https://github.com/guipsamora/pandas_exercises/tree/master/06_Stats)
-[US_Baby_Names](https://github.com/guipsamora/pandas_exercises/tree/master/06_Stats/US_Baby_Names)  
-[Wind_Stats](https://github.com/guipsamora/pandas_exercises/tree/master/06_Stats/Wind_Stats)
+### [Data Visualization](https://github.com/kipronokoech/pandas_topics/tree/master/07_Data_Visualization)
+[Chipotle](https://github.com/kipronokoech/pandas_topics/tree/master/07_Data_Visualization/Chipotle)  
+[Titanic Disaster](https://github.com/kipronokoech/pandas_topics/tree/master/07_Data_Visualization/Titanic_Desaster)  
+[Scores](https://github.com/kipronokoech/pandas_topics/tree/master/07_Data_Visualization/Scores)  
+[Online Retail](https://github.com/kipronokoech/pandas_topics/tree/master/07_Data_Visualization/Online_Retail)  
+[Tips](https://github.com/kipronokoech/pandas_topics/tree/master/07_Data_Visualization/Tips)  
 
-### [Visualization](https://github.com/guipsamora/pandas_exercises/tree/master/07_Visualization)
-[Chipotle](https://github.com/guipsamora/pandas_exercises/tree/master/07_Visualization/Chipotle)  
-[Titanic Disaster](https://github.com/guipsamora/pandas_exercises/tree/master/07_Visualization/Titanic_Desaster)  
-[Scores](https://github.com/guipsamora/pandas_exercises/tree/master/07_Visualization/Scores)  
-[Online Retail](https://github.com/guipsamora/pandas_exercises/tree/master/07_Visualization/Online_Retail)  
-[Tips](https://github.com/guipsamora/pandas_exercises/tree/master/07_Visualization/Tips)  
+### [Creating Series and DataFrames](https://github.com/kipronokoech/pandas_topics/tree/master/08_Creating_Series_and_DataFrames)  
+[Pokemon](https://github.com/kipronokoech/pandas_topics/tree/master/08_Creating_Series_and_DataFrames/Pokemon)  
 
-### [Creating Series and DataFrames](https://github.com/guipsamora/pandas_exercises/tree/master/08_Creating_Series_and_DataFrames)  
-[Pokemon](https://github.com/guipsamora/pandas_exercises/tree/master/08_Creating_Series_and_DataFrames/Pokemon)  
+### [Time Series](https://github.com/kipronokoech/pandas_topics/tree/master/09_Time_Series)  
+[Apple_Stock](https://github.com/kipronokoech/pandas_topics/tree/master/09_Time_Series/Apple_Stock)  
+[Getting_Financial_Data](https://github.com/kipronokoech/pandas_topics/tree/master/09_Time_Series/Getting_Financial_Data)  
+[Investor_Flow_of_Funds_US](https://github.com/kipronokoech/pandas_topics/tree/master/09_Time_Series/Getting_Financial_Data)  
 
-### [Time Series](https://github.com/guipsamora/pandas_exercises/tree/master/09_Time_Series)  
-[Apple_Stock](https://github.com/guipsamora/pandas_exercises/tree/master/09_Time_Series/Apple_Stock)  
-[Getting_Financial_Data](https://github.com/guipsamora/pandas_exercises/tree/master/09_Time_Series/Getting_Financial_Data)  
-[Investor_Flow_of_Funds_US](https://github.com/guipsamora/pandas_exercises/tree/master/09_Time_Series/Getting_Financial_Data)  
+### [Deleting](https://github.com/kipronokoech/pandas_topics/tree/master/10_Deleting)  
+[Iris](https://github.com/kipronokoech/pandas_topics/tree/master/10_Deleting/Iris)  
+[Wine](https://github.com/kipronokoech/pandas_topics/tree/master/10_Deleting/Wine)  
 
-### [Deleting](https://github.com/guipsamora/pandas_exercises/tree/master/10_Deleting)  
-[Iris](https://github.com/guipsamora/pandas_exercises/tree/master/10_Deleting/Iris)  
-[Wine](https://github.com/guipsamora/pandas_exercises/tree/master/10_Deleting/Wine)  
+### [Missing Values](https://github.com/kipronokoech/pandas_topics/tree/master/12_Missing_Values)  
+[Employee](https://github.com/kipronokoech/pandas_topics/tree/master/12_Missing_Values/Employee)
 
-# Video Solutions
-
-Video tutorials of data scientists working through the above exercises:
-
-[Data Talks - Pandas Learning By Doing](https://www.youtube.com/watch?v=pu3IpU937xs&list=PLgJhDSE2ZLxaY_DigHeiIDC1cD09rXgJv)
